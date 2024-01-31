@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-* ✉️  You can contact me at [baonhanice@gmail.com](mailto:baonhanice@gmail.com)
+* ✉️  You can contact me at [baonhannice@gmail.com](mailto:baonhanice@gmail.com)
 * 🧠  I'm learning C/C++,HTML,CSS,JavaScript,Japanese
 * 👀 I’m interested in Web Development
 * 🔭 I’m currently Studing at Da Nang University of Science and Technology
