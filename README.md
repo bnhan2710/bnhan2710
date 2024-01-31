@@ -11,8 +11,6 @@ Web Developer
 * 🔭 I’m currently Studing at Da Nang University of Science and Technology
 * ⚡ Fun fact: Im not tall
 
-<a href="https://www.github.com/bnhan2710" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bnhan2710?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
