@@ -1,10 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bảo Nhân
 ================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&height=80&lines=Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=21&pause=970&background=FFA30000&center=true&random=false&width=450&lines=Backend+Developer)](https://git.io/typing-svg)
 -----------------
 
-👀 I’m interested in Backend,Web3 🔭 I’m currently Studing at Da Nang University of Science and Technology
+👀 I’m interested in Backend, Web3 
+🔭 I’m currently Studing at Da Nang University of Science and Technology
 
 * ✉️  You can contact me at [baonhannice@gmail.com](mailto:baonhannice@gmail.com)
 
