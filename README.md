@@ -107,15 +107,14 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=bnhan2710&show_icons=true&theme=radical&title_color=3382ed" alt="My GitHub stats" />
       <br>
-      <a href="http://www.github.com/bnhan2710">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bnhan2710&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=bnhan2710&theme=tokyonight&border_radius=10&background=141321" alt="GitHub Streak" />
       </a>
     </td>
     <td>
       <a href="https://github.com/bnhan2710/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnhan2710&layout=donut-vertical&bg_color=1c1917&text_color=ffffff&theme=radical&title_color=3382ed" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnhan2710&layout=donut-vertical&bg_color=141321&text_color=ffffff&theme=tokyonight&title_color=3382ed&&langs_count=8&" alt="Top Langs" />
       </a>
     </td>
   </tr>
 </table>
-
