@@ -53,6 +53,8 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/express-js.png" width="36" height="36" alt="Express" style="background-color: white;" />
 </a>
+    <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
+    </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
   </a>
