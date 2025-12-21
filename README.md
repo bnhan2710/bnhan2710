@@ -89,7 +89,7 @@ const nhan = {
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
 </div>
 
-### 🐳 DevOps, Cloud & Monitoring
+### 🐳 DevOps, Cloud & Monitoring & Tools
 
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
