@@ -2,8 +2,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=40&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+There!+%F0%9F%91%8B;I'm+Nhan!;" alt="Typing SVG" />
   </a>
-  <h3>Software Engineer | Backend & Product Engineering | </h3>
-  <p>Backend engineering, practical AI adoption, automation, and business-focused software solutions.</p>
+  <h3>Software Engineer | Fullstack & Product Engineering | </h3>
+  <p>Software & Product engineering, practical AI adoption, automation, and business-focused software solutions.</p>
   <p>
     <a href="https://bnhan-portfolio-web.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" height="22" alt="Portfolio" />
